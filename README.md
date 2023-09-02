@@ -1,2 +1,1 @@
-# gaurav
-code about front end web development
+this is a trial of codeing 
